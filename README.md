@@ -1,2 +1,2 @@
 # Bluetooth
-Projetos que envolvam a aplicação do Bluetooth
+Projetos que envolvam a aplicação do Bluetooth.
